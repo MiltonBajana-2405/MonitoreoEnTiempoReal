@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "134284129381",
+    "firebase_url": "https://map25-c7166-default-rtdb.firebaseio.com",
+    "project_id": "map25-c7166",
+    "storage_bucket": "map25-c7166.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134284129381:android:8928c13e4c00ea8979c28c",
+        "android_client_info": {
+          "package_name": "com.example.semana11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWRzv8asnGX1-E5TLEUV-6vkacJGIBvh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
